@@ -1,0 +1,63 @@
+.contact-photo {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 5px solid #ffffff;
+}
+
+.contact-card {
+    border-top: 3px solid #545454;
+}
+
+.contact-card .body {
+    border-top: 1px solid #cecece;
+}
+
+.card.contact-card .header h2 {
+    font-size: 14px;
+}
+
+.contact-card-footer {
+    border-top: 1px solid #cecece;
+    text-align: right;
+    background-color: white;
+}
+
+.miniinfo-picture {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 1px solid #cecece;
+    border-bottom: 1px solid #cecece;
+}
+
+.info-groups {
+    text-align: center;
+    padding: 20px;
+    background: #cecece;
+    border-bottom: 1px solid #818181;
+}
+
+.fav-icon {
+    position: absolute;
+    top: -0px;
+    right: 10px;
+    text-align: center;
+}
+
+.info-fields {
+    padding: 20px;
+    text-align: center;
+}
+
+.social-icons{
+    width: 100%;
+    padding: 30px;
+}
+
+.social-icons .flex-item{
+    cursor: pointer;
+}
+
+.bio{
+    background-color: #f8f8f8;
+}

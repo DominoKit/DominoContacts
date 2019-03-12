@@ -1,0 +1,6 @@
+{
+  "http.port": 8080,
+  "resource.root.path": "/service",
+  "remote.logger": "org.dominokit.domino.remote.logging.DeobfuscatorRemoteLogger",
+  "mongo.port": 27117
+}
